@@ -179,6 +179,30 @@ body {
     color: #ff4081;
 }
 
+/* unvisited link */
+a:link {
+	font-weight: bold;
+  color: #00bcd4;
+}
+
+/* visited link */
+a:visited {
+	font-weight: bold;
+  color: #00bcd4;
+}
+
+/* mouse over link */
+a:hover {
+	font-weight: bold;
+	color: #ff4081;
+}
+
+/* selected link */
+a:active {
+  font-weight: bold;
+  color: #00bcd4;
+}
+
 
 /* Animations */
 @keyframes fadeIn {

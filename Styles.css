@@ -145,7 +145,7 @@ body {
 }
 
 .media-container video {
-    width: 50%;
+    width: 60%;
     box-shadow: 0 4px 8px rgba(0, 0, 0, 0.3);
     border-radius: 8px;
     max-width: 100%;
